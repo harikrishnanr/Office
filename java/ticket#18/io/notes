@@ -1,7 +1,0 @@
-FileReader f  = new FileReader("asdas")
-BufferedReader in = new BufferedReader(f)
-in.read()
-FileInputStream
-DataInputStream
-Double.parseDouble(string)
-Integer.parseInt(string)
