@@ -1,0 +1,4 @@
+Vector is a dynalic array which can grow and shrink according to the requirements.
+It contains many Methods. Vectors are Synchronized.
+Length of the Array is established , when it is created.
+

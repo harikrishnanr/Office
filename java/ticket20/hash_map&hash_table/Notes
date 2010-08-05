@@ -1,0 +1,3 @@
+HashTable doesnot allow null Keys & Values.
+HashMap allow one null & No. of values
+It has initial capacity and Load Factor.
